@@ -1,0 +1,24 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 1
+    },
+    {
+      "id": 2,
+      "name": "Caderno capa dura FORONI Sherek",
+      "price": "25.50"
+    },
+    {
+      "id": 3,
+      "name": "Estojo básico",
+      "price": 12
+    },
+    {
+      "name": "Borracha",
+      "price": "2",
+      "id": 4
+    }
+  ]
+}
